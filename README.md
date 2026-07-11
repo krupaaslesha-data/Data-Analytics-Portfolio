@@ -1,7 +1,7 @@
 # Data-Analytics-Portfolio
 My Data Analytics projects using Power BI, Python, SQL, Excel, and Statistics.
 
-<img width="1536" height="1024" alt="ChatGPT Image Jul 9, 2026, 02_34_12 PM" src="https://github.com/user-attachments/assets/af63f552-4f7b-4e78-82d1-185eef68b833" />
+<img width="1536" height="1024" alt="Data Analytics Portfolio" src="https://github.com/user-attachments/assets/0a9bde37-b6fa-4230-bf03-a90c95b946de" />
 
 # 📊 Data Analytics Portfolio
 
